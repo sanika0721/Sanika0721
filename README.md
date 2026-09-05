@@ -1,6 +1,8 @@
 ## Hi there 👋
 # 💫 About Me:
-I am a python learning ,, CSE student!!
+Currently I am learning Python and solving DSA in python
+Also know some concepts of C
+
 
 
 ## 🌐 Socials:
